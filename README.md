@@ -4,7 +4,7 @@ A simple package to fetch GitHub user stats without needing to open a browser. U
 
 ## Installation
 
-You can install the package via npm or yarn:
+You can install the package via [npm](https://www.npmjs.com/package/source-githubstats) or yarn:
 
 ```bash
 npm install githubstats
