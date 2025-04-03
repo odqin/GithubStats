@@ -1,0 +1,43 @@
+{
+  "name": "githubstats",
+  "version": "1.0.0",
+  "description": "Get a user github states without need to open browser and use them in your work!!",
+  
+    "type": "module",
+    "main": "./dist/cjs/index.js",
+    "module": "./dist/esm/index.js",
+    "types": "./dist/esm/index.d.ts",
+    "exports": {
+  "import": "./dist/esm/index.mjs",
+  "require": "./dist/cjs/index.cjs"
+},
+  
+  
+"scripts": {
+  "build:esm": "tsup ./src/index.ts --format esm --outDir dist/esm",
+  "build:cjs": "tsup ./src/index.ts --format cjs --outDir dist/cjs",
+  "build": "npm run build:esm && npm run build:cjs"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKhelil/githubStates.git"
+  },
+  "author": "Badro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrKhelil/githubStates/issues"
+  },
+  "homepage": "https://github.com/MrKhelil/githubStates#readme",
+  "dependencies": {
+    "axios": "^1.8.4"
+    },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "jest": "^29.7.0",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2",  
+    "axios": "^1.8.4"
+
+  }
+}
