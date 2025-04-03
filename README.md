@@ -53,7 +53,7 @@ async function getStats(username) {
 getStats("MrKhelil");
 ```
 ## Example Output
-```json
+```js
 {
   login: 'MrKhelil',
   id: 144062404,
