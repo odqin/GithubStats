@@ -21,14 +21,14 @@
 ,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrKhelil/githubStates.git"
+    "url": "git+https://github.com/MrKhelil/githubStats.git"
   },
   "author": "Badro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MrKhelil/githubStates/issues"
+    "url": "https://github.com/MrKhelil/githubStats/issues"
   },
-  "homepage": "https://github.com/MrKhelil/githubStates#readme",
+  "homepage": "https://github.com/MrKhelil/githubStats#readme",
   "dependencies": {
     "axios": "^1.8.4"
     },
