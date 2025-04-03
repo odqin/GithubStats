@@ -10,6 +10,14 @@
     "import": "./dist/esm/index.mjs",
     "require": "./dist/cjs/index.cjs"
   },
+  "keywords": [
+    "github",
+    "github-api",
+    "user-stats",
+    "github-stats",
+    "profile-stats",
+    "node-github"
+  ],
   "scripts": {
     "build:esm": "tsup ./src/index.ts --format esm --outDir dist/esm",
     "build:cjs": "tsup ./src/index.ts --format cjs --outDir dist/cjs",
