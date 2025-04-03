@@ -1,6 +1,6 @@
 {
   "name": "source-githubstats",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get a user github states without need to open browser and use them in your work!!",
   "type": "module",
   "main": "./dist/cjs/index.js",
