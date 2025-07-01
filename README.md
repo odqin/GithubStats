@@ -32,7 +32,7 @@ async function getStats(username) {
     console.error("Error fetching stats:", error);
   }
 }
-getStats("MrKhelil");
+getStats("odqin");
 ```
 ### ES Modules (ESM)
 ```js
@@ -50,27 +50,27 @@ async function getStats(username) {
     console.error("Error fetching stats:", error);
   }
 }
-getStats("MrKhelil");
+getStats("odqin");
 ```
 ## Example Output
 ```js
 {
-  login: 'MrKhelil',
+  login: 'odqin',
   id: 144062404,
   node_id: 'U_kgDOCJY3xA',
   avatar_url: 'https://avatars.githubusercontent.com/u/144062404?v=4',
   gravatar_id: '',
-  url: 'https://api.github.com/users/MrKhelil',
-  html_url: 'https://github.com/MrKhelil',
-  followers_url: 'https://api.github.com/users/MrKhelil/followers',
-  following_url: 'https://api.github.com/users/MrKhelil/following{/other_user}',
-  gists_url: 'https://api.github.com/users/MrKhelil/gists{/gist_id}',
-  starred_url: 'https://api.github.com/users/MrKhelil/starred{/owner}{/repo}',
-  subscriptions_url: 'https://api.github.com/users/MrKhelil/subscriptions',
-  organizations_url: 'https://api.github.com/users/MrKhelil/orgs',
-  repos_url: 'https://api.github.com/users/MrKhelil/repos',
-  events_url: 'https://api.github.com/users/MrKhelil/events{/privacy}',
-  received_events_url: 'https://api.github.com/users/MrKhelil/received_events',
+  url: 'https://api.github.com/users/odqin',
+  html_url: 'https://github.com/odqin',
+  followers_url: 'https://api.github.com/users/odqin/followers',
+  following_url: 'https://api.github.com/users/odqin/following{/other_user}',
+  gists_url: 'https://api.github.com/users/odqin/gists{/gist_id}',
+  starred_url: 'https://api.github.com/users/odqin/starred{/owner}{/repo}',
+  subscriptions_url: 'https://api.github.com/users/odqin/subscriptions',
+  organizations_url: 'https://api.github.com/users/odqin/orgs',
+  repos_url: 'https://api.github.com/users/odqin/repos',
+  events_url: 'https://api.github.com/users/odqin/events{/privacy}',
+  received_events_url: 'https://api.github.com/users/odqin/received_events',
   type: 'User',
   user_view_type: 'public',
   site_admin: false,
@@ -110,13 +110,13 @@ If you have suggestions or improvements, feel free to open issues or pull reques
 
 ## Bugs and Issues
 
-If you encounter any bugs or issues, please open an issue on the [GitHub repository](https://github.com/MrKhelil/githubStats).
+If you encounter any bugs or issues, please open an issue on the [GitHub repository](https://github.com/odqin/githubStats).
 
 
-Created with ❤️ by [MrKhelil](https://github.com/MrKhelil/)
+Created with ❤️ by [Odqin](https://github.com/odqin/)
 
 
 [![npm](https://img.shields.io/npm/v/source-githubstats)](https://www.npmjs.com/package/source-githubstats)
 [![npm](https://img.shields.io/npm/l/source-githubstats)](https://www.npmjs.com/package/source-githubstats)
 [![npm](https://img.shields.io/npm/dt/source-githubstats)](https://www.npmjs.com/package/source-githubstats)
-[![github](https://img.shields.io/github/last-commit/MrKhelil/githubStates)](https://github.com/MrKhelil/githubStats)
+[![github](https://img.shields.io/github/last-commit/odqin/githubStates)](https://github.com/odqin/githubStats)
