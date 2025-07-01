@@ -74,7 +74,7 @@ getStats("odqin");
   type: 'User',
   user_view_type: 'public',
   site_admin: false,
-  name: 'Khelil Badro',
+  name: 'Odqin',
   company: 'Source',
   blog: '',
   location: null,
