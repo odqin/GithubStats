@@ -1,6 +1,6 @@
 {
   "name": "source-githubstats",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Get a user github states without need to open browser and use them in your work!!",
   "type": "module",
   "main": "./dist/cjs/index.js",
@@ -25,14 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrKhelil/githubStats.git"
+    "url": "git+https://github.com/odqin/githubStats.git"
   },
   "author": "Badro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MrKhelil/githubStats/issues"
+    "url": "https://github.com/odqin/githubStats/issues"
   },
-  "homepage": "https://github.com/MrKhelil/githubStats#readme",
+  "homepage": "https://github.com/odqin/githubStats#readme",
   "dependencies": {
     "axios": "^1.8.4"
   },
